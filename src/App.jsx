@@ -1,4 +1,5 @@
 import useAuthData from './hooks/useAuthData'
+import ChildComponent from './components/ChildComponent'
 
 import './App.css'
 
@@ -27,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Drop me a note if you need a hand: <a href="mailto:fred.lackey@gmail.com">fred.lackey@gmail.com</a> | <a rel="author" href="https://fredlackey.com">fredlackey.com</a>
       </p>
+      <ChildComponent />
     </>
   )
 }

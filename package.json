@@ -2,7 +2,7 @@
   "name"       : "react-auth-context-reload",
   "description": "Uses the React Context API to manage authentication state and local storage to persist the state.  State is reloaded from local storage whenever the app is launched.",
   "private"    : true,
-  "version"    : "1.0.0",
+  "version"    : "1.0.1",
   "type"       : "module",
   "author"     : {
     "name" : "Fred Lackey",
